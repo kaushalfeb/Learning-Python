@@ -1,0 +1,8 @@
+This is the file which will
+be used for file io operations
+Hum dekhenge
+Lazim hai ki hum bhi dekhenge
+wo din jis din ka waada hai
+jo lauh-e-azal pe likha hai
+hum dekhenge...
+hum dekhenge...
