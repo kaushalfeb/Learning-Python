@@ -18,7 +18,7 @@ class Deck():
         return opted_card,val
 
 class Player(Deck):
-    bankroll = 100
+    bankroll = 0
     d = Deck()
     pcards = {}
     
@@ -110,11 +110,23 @@ class Gameplay():
         self.alan.carder()
         self.enigma.carder()
         self.flag = True
+        self.player_won = True
 
         print('\nWelcome to BlackJack game \n\nPlayer 1 goes first\n')
-       
+        while True:
+            try:
+                bal = int(input("Player how much money do you want to play with?\n"))
+            except:
+                print("Enter an integer amount")
+                continue
+            else:
+                self.alan.bankroll = bal
+                break
+
+
         while True:
             print(f'Player 1 you have\n{self.alan.show_cards()}\n')
+
             try:
                 ans = int(input('Player Do you want to Hit or Stay\n1.Hit \n2.Stay\n3.End Game\n'))
             except:
@@ -122,6 +134,7 @@ class Gameplay():
                 continue
             
             if ans == 1:
+
                 self.alan.hit()
                 self.ch_points = self.alan.points() 
                 print(f"Player 1 points are {self.ch_points}")
@@ -135,6 +148,7 @@ class Gameplay():
                 elif self.ch_points > 21:
                     print("Player Busted\nComputer Won!")
                     self.flag = False
+                    self.player_won = False
                     break
                 continue
 
@@ -150,9 +164,9 @@ class Gameplay():
                 print('Wrong Input')
                 continue
             
-        print("\nIt is now Enigma's turn\n")
         
         while self.flag:
+            print("\nIt is now Computer's turn\n")
             
             print(f'Computer you have\n{self.enigma.show_cards()}\n')
             
@@ -165,6 +179,7 @@ class Gameplay():
             #Check whether computer is already leading
             if self.en_points > self.ch_points:
                 print("\nComputer won")
+                self.player_won = False
                 break
 
 
@@ -188,6 +203,7 @@ class Gameplay():
                 
                 else:
                     print("Computer won")
+                    self.player_won = False
                 break
 
             elif ans == 3:
@@ -196,6 +212,11 @@ class Gameplay():
                 print('Wrong Input')
                 continue
         
+        if self.player_won == True:
+            print(f"You earned {self.alan.bankroll*2}")
+        else:
+            print(f"You lost {self.alan.bankroll}")
+
         print('Game is Over')
         
 g = Gameplay()
