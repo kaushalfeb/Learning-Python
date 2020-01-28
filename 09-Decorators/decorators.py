@@ -131,7 +131,20 @@ decorated_fun()
 #Some other code after
 
 @new_decorator
-def fun_need_decorator:
+def fun_need_decorator():
 	print('I want to be decorated')
 
 fun_need_decorator()
+#output
+#Some extra code before the original_fun
+#I want to be decorated
+#some other code after 
+
+# To turn decorator off just comment @new_decorator 
+# output
+# I want to be decorated
+
+
+
+
+#Used in django or flask 
