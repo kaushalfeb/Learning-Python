@@ -92,3 +92,46 @@ my_new_func = hello('Raj')
 print(my_new_func())
 #Output:
 #Doing pushups
+
+''' 
+Passing function as arguments in another function
+'''
+def drink():
+	return 'I am drinking water'
+
+def other(some_other_fun):
+	print('Running other code')
+	print(some_other_fun())
+
+# Output:
+# Running other code
+# I am drinking water
+
+
+def new_decorator(original_fun):
+
+	def wrap_text():
+		print('Some extra code, before the original_fun')
+
+		original_fun()
+		
+		print('some other code after ')
+	return wrap_text
+
+def fun_need_decorator():
+	print('I want to be decorated')
+
+
+decorated_fun = new_decorator(fun_need_decorator)
+decorated_fun()
+
+#Output:
+#Some extra code, before the original_fun
+#I want to be decorated
+#Some other code after
+
+@new_decorator
+def fun_need_decorator:
+	print('I want to be decorated')
+
+fun_need_decorator()
