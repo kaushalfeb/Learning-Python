@@ -33,3 +33,33 @@ greet()
 # It will still return "Hello !!"
 # greet is still pointing towards this function object
 # Functions are object which cannot be passed into another object.
+
+def hello(name = "Jenny"):
+	print("Does hello() function execution.")
+
+	def greet():
+		return '\t This  is the greet function inside hello()'
+
+hello()
+# prints Does hello() function execution
+# we just defined greet but not execute it yet so.
+
+print(greet())
+# afterwards this is the greet funciton inside hello() alse executes starting with a tab space from border.
+
+def hello(name = "Jenny"):
+	print("Does hello() function execution.")
+
+	def greet():
+		return '\t This  is the greet function inside hello()'
+
+	def welcome():
+		return 'Welcoming you '
+
+	print(greet())
+	print(welcome())
+
+#Output would be:
+# Does hello() function execution 
+# 	 	This is the greet funciton inside hello()
+#		Welcoming you
