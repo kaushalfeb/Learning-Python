@@ -45,7 +45,8 @@ hello()
 # we just defined greet but not execute it yet so.
 
 print(greet())
-# afterwards this is the greet funciton inside hello() alse executes starting with a tab space from border.
+# scope of greet is limited only inside hello function hence it will show an error.
+
 
 def hello(name = "Jenny"):
 	print("Does hello() function execution.")
@@ -63,3 +64,31 @@ def hello(name = "Jenny"):
 # Does hello() function execution 
 # 	 	This is the greet funciton inside hello()
 #		Welcoming you
+ 
+
+#We can ask the function to return a function
+def hello(name='Raj'):
+	print('The hello() function has been executed!')
+
+	def pushup():
+		return 'Doing pushups'
+
+	def crunches():
+		return 'Doing crunches now'
+
+	print("I am the end of hello function")
+
+	if name == 'Raj':
+		return pushup
+	else:
+		return crunches
+
+my_new_func = hello('Raj')
+
+# Output:
+#The hello() function has been executed!
+#I am the end of hello function
+
+print(my_new_func())
+#Output:
+#Doing pushups
