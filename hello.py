@@ -7,3 +7,4 @@ Hello
 print("Lets do this")
 #print("Not again")
 Hope it works
+x = [1,2,3,4,5,6]
