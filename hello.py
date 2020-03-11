@@ -9,3 +9,5 @@ print("Lets do this")
 Hope it works
 x = [1,2,3,4,5,6]
 print(x)
+for val in x:
+    print(x)
