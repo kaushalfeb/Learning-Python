@@ -11,3 +11,4 @@ x = [1,2,3,4,5,6]
 print(x)
 for val in x:
     print(x)
+#iterations require colon at the end of line
