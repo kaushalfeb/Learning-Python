@@ -15,3 +15,4 @@ for val in x:
 Solve eclipse errors
 # work on Flask 
 Py file stands for python
+Python is a high level language
