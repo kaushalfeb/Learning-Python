@@ -19,3 +19,4 @@ Python is a high level language
 # What does Learning Python means to me?
 # Dream.Passion.
 Make this work.
+Lists Dictionaries Tuples Sets
