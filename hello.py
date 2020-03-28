@@ -21,3 +21,4 @@ Python is a high level language
 Make this work.
 Lists Dictionaries Tuples Sets
 Learn Django or Flask next.
+Work on a small project.
