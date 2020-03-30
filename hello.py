@@ -23,3 +23,4 @@ Lists Dictionaries Tuples Sets
 Learn Django or Flask next.
 Work on a small project.
 Revise concepts again of Python from beginning
+Need to start revising now.
