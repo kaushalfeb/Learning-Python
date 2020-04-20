@@ -35,3 +35,4 @@ Editing syahi
 What do I want to become? When there is big demand for the high quality eduction(or knowledge).
 Get together
 Restart ml
+#these are kind of mental notess
