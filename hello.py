@@ -36,3 +36,4 @@ What do I want to become? When there is big demand for the high quality eduction
 Get together
 Restart ml
 #these are kind of mental notess
+I have applied for finance aid
