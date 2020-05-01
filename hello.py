@@ -44,3 +44,4 @@ Una started
 Practice
 When your brain tellls you"u r exhausted" you are just 40% done;
 Do it again.
+Hello. Work hard.
