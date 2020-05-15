@@ -57,3 +57,4 @@ New Beginnings.
 Sweat more.
 Lets do this.
 Keep going.
+Less syntax.
