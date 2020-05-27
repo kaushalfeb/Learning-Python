@@ -6,7 +6,7 @@ while true:
 Hello
 print("Lets do this")
 #print("Not again")
-Hope it works
+Hope it worksi
 x = [1,2,3,4,5,6]
 print(x)
 for val in x:
@@ -69,3 +69,4 @@ Again and again
 Mai paani ke bulbule jaise....
 tujhe sochu to phoot jata hu.
 Consistency.
+Gentleman
