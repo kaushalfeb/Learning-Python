@@ -70,3 +70,4 @@ Mai paani ke bulbule jaise....
 tujhe sochu to phoot jata hu.
 Consistency.
 Gentleman
+Who had been here, before everyone else
