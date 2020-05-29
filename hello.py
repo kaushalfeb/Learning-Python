@@ -71,3 +71,4 @@ tujhe sochu to phoot jata hu.
 Consistency.
 Gentleman
 Who had been here, before everyone else
+Awareness via knowledge.
