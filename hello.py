@@ -74,3 +74,4 @@ Who had been here, before everyone else
 Awareness via knowledge.
 Fifth.
 Bring stability.
+Earn the respect.
