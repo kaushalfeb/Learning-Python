@@ -79,3 +79,4 @@ Dead
 Previous problems.
 Start note making.
 Ok
+Strengthen vocab.
