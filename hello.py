@@ -80,3 +80,4 @@ Previous problems.
 Start note making.
 Ok
 Strengthen vocab.
+Let us make it work.
