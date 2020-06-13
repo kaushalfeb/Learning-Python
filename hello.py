@@ -83,3 +83,4 @@ Strengthen vocab.
 Let us make it work.
 People.
 Divest of.
+Sword of honour.
