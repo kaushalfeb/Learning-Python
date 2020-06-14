@@ -6,7 +6,7 @@ while true:
 Hello
 print("Lets do this")
 #print("Not again")
-Hope it worksi
+Hope it worksia
 x = [1,2,3,4,5,6]
 print(x)
 for val in x:
@@ -84,3 +84,4 @@ Let us make it work.
 People.
 Divest of.
 Sword of honour.
+Consistency.
