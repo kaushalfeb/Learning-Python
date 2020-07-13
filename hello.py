@@ -99,3 +99,4 @@ It takes real bravery to seek help.
 Make notes and build temprament.
 Persistence.
 Dalai Lama
+habitual.
