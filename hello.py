@@ -100,3 +100,4 @@ Make notes and build temprament.
 Persistence.
 Dalai Lama
 habitual.
+Sunflowers are little funny, but if it were a rose maybe you would miss it.
