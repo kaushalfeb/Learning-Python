@@ -102,3 +102,5 @@ Dalai Lama
 habitual.
 Sunflowers are little funny, but if it were a rose maybe you would miss it.
 Install a new Habit.
+
+With education one can erase all lines of discrimination.
