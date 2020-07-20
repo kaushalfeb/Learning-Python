@@ -107,3 +107,5 @@ With education one can erase all lines of discrimination.
 
 Will everything work.
 Hello
+
+Your daily practice sets your mindset and tells you your capability, so keep practicing more and much more.
