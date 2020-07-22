@@ -109,3 +109,5 @@ Will everything work.
 Hello
 
 Your daily practice sets your mindset and tells you your capability, so keep practicing more and much more.
+
+Life of service.
