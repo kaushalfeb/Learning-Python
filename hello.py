@@ -118,3 +118,5 @@ Raspberry pi
 Will you stay?
 
 Tera kab hoga selection?
+
+Practice a lot. Consistently
