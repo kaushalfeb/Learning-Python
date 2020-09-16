@@ -120,3 +120,5 @@ Will you stay?
 Tera kab hoga selection?
 
 Practice a lot. Consistently
+
+Learn new words
