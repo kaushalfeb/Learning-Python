@@ -122,3 +122,5 @@ Tera kab hoga selection?
 Practice a lot. Consistently
 
 Learn new words
+
+Practice old papers
