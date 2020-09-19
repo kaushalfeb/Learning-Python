@@ -124,3 +124,5 @@ Practice a lot. Consistently
 Learn new words
 
 Practice old papers
+
+One must make every effort to clear in the first attempt.
