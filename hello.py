@@ -131,3 +131,4 @@ last 10 days can make a change.
 Brother.
 
 English and quant.
+confidence
