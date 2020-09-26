@@ -134,3 +134,9 @@ English and quant.
 confidence
 
 International Relations.
+
+Lets break the norm.
+
+Impress your soul, if it wishes
+it can direct your senses in the directions which you want.
+It can distract you from distraction and put your focus on what is best for you.
