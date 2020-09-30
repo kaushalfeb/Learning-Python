@@ -142,3 +142,5 @@ it can direct your senses in the directions which you want.
 It can distract you from distraction and put your focus on what is best for you.
 
 You are crushing it.
+
+comeback with a stronger approach .
